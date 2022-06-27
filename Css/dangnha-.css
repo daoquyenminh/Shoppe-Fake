@@ -1,0 +1,370 @@
+
+body{
+    margin: 0%;
+    background-color: #f5f5f5;
+    font-family: Arial;
+}
+.bar{
+    height: auto;
+    width: auto;
+}
+
+
+.menu{
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+
+}
+.menu a img {
+    width: 148px;
+    height: 51px;
+    margin-top: 7px;
+    float: left;
+    
+}
+.menu p {
+    float: left;
+    color: #222;
+    font-size: 1.5rem;
+    
+}
+.menu .help {
+    float: right;
+    margin-top: 30px;
+    color: #ee4d2d;
+    font-size: .875rem;
+    margin-right: .9375rem;
+    cursor: pointer;
+    text-decoration: none;
+   
+}
+
+.main {
+    background-color: rgb(238, 77, 45);
+    
+}
+
+.content{
+    background-image: url(/images/page.dangki/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 37.5rem;
+    width: 65rem;
+    min-height: 37.5rem;
+    margin: 0 auto;
+   
+
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+   
+}
+.form-sign-up{
+    
+    min-height: 26.6875rem;
+    width: 400px;
+    box-sizing: border-box;
+    box-shadow: 0 3px 10px 0 rgb(0 0 0 / 14%);
+    border-radius: .25rem;
+    overflow: hidden;
+    background-color: #fff;
+
+    position: relative;
+    top: 81px;
+    right: -565px;
+}
+.form-sign-up .top{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -26px;
+}
+.form-sign-up .top p{
+    font-size: 26px;
+    padding: 0px;
+    margin-left: 35px;
+    margin-top: 55px;
+
+}
+.form-sign-up .center input {
+    padding-left: 28px;
+    width: 309px;
+    position: relative;
+    height: 40px;
+    outline: none;
+    left: 26px;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 2px;
+    
+}
+.form-sign-up .center .btn-next{
+    width: 338px;
+    height: 40px;
+    background-color: rgba(235, 76, 36, 0.966);
+    border: 0px solid red;
+    color: white;
+    border-radius: 3px;
+    position: relative;
+    left: 30px;
+    top: 36px;
+}
+
+.form-sign-up .center .btn-next:hover{
+    background-color: rgb(240, 82, 82);
+    
+}
+.form-sign-up .center .hoac{
+    margin-top: 56px;
+    margin-left: 182px;
+}
+.form-sign-up .center .login-khac{
+    display: flex;
+    margin-left: 19px;
+    margin-top: 10px;
+}
+.form-sign-up .center .login-khac img {
+    width: 101px;
+    margin-left: 14px;
+}
+
+
+.bottom{
+    position: relative;
+    margin: auto;
+    width: 65%;
+}
+
+.bottom p {
+    color: grey;
+}
+.bottom a {
+    color: rgb(231, 56, 56);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: #f5f5f5;
+}
+.main-footer{
+    width: 75rem;
+    margin: auto;
+}
+
+.first-footer{
+    margin: 0 -.3125rem;
+    padding: .3125rem;
+    width: 100%;
+    -webkit-box-align: start;
+    display: flex;
+}
+
+
+.second-footer{
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin: 0 -.3125rem;
+    padding: .3125rem;
+    border-top: .03125rem solid rgba(0,0,0,.1);
+    min-height: 5.625rem;
+    color: rgba(0,0,0,.54);
+    display: flex;
+    align-items: center;
+}
+.tieude-footer{
+    width: 20%;
+    padding: .3125rem;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.tieude-footer img{
+    width: 185px;
+    height: 95px;
+}
+.tieude-footer .tai-app-ngay-thoi{
+    width: 108px;
+    height: 83px;
+
+}
+.tieude-footer .don-vi-van-chuyen{
+    width: 205px;
+    height: 132px;
+}
+
+.tieude-footer .theo-doi-tren{
+    width: 101px;
+    height: 65px;
+}
+
+.title-footer{
+    font-size: .75rem;
+    font-weight: 700;
+    color: rgba(0,0,0,.54);
+    margin-bottom: 1.25rem;
+    margin-top: 2.5rem;
+    text-transform: uppercase;
+    
+}
+.ul-title{
+    text-decoration: none;
+    display: block;
+    color: rgba(0,0,0,.54);
+    list-style-type: none;
+    margin: 0 0 1.5625rem;
+    padding: 0;
+}
+
+.ul-title li{
+    font-size: .75rem;
+    margin-bottom: .75rem;
+    text-transform: capitalize;
+    align-content: center;
+    display: flex;
+}
+.ul-title li a{
+    text-decoration: none;
+    color: rgba(0,0,0,.54);
+
+}
+.ul-title li a:hover{
+    color: rgb(240, 82, 82);
+}
+
+._3iAbMl {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.qO3oPb {
+    border-right: 1px solid rgba(0,0,0,.2);
+    padding: 0 .3125rem;
+}
+._3fl0h0 {
+    text-decoration: none;
+    color: rgba(0,0,0,.54);
+    font-family: Arial;
+}
+
+
+.down-footer{
+    font-size: .75rem;
+    color: rgba(0,0,0,.65);
+    padding: 2.625rem 0 2.3125rem;
+    background: #f5f5f5;
+}
+.JBZy9s {
+    width: 75rem;
+    margin: 0 auto;
+}
+._3hZhfd {
+    
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin-bottom: 2.5rem;
+}
+._1Q6CiU {
+    padding: 0 1.5625rem;
+    border-right: 1px solid rgba(0,0,0,.09);
+    text-transform: uppercase;
+    font-size: .75rem;
+}
+._1g5laT {
+    text-decoration: none;
+    display: block;
+    color: rgba(0,0,0,.54);
+    
+}
+._14eYNa {
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+}
+._14eYNa img {
+    width: 103px;
+    height: 38px;
+    margin: 10px;
+}
+._14eYNa img:last-child{
+    width: 44px;
+    height: 38px;
+    margin: 10px;
+}
+._1c2Tz5 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: .5rem;
+    
+}
+._1xU4be {
+    margin-bottom: 1.5625rem;
+}
